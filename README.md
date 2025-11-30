@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ednardo%20Rubens%20🚀&fontSize=45&animation=fadeIn&fontColor=ffffff" />
@@ -16,7 +14,7 @@
 
 ## 🎯 Sobre Mim
 - ☕ Desenvolvedor Backend Java  
-- 📦 Experiência com **APIs REST**, microservices e mensageria  
+- 📦 Experiência com **APIs REST**, microsserviços e mensageria  
 - 🗄️ Domínio de bancos SQL e NoSQL  
 - 🧪 Focado em testes automatizados e qualidade de código  
 - 🚀 Apaixonado por Clean Code, SOLID e boas práticas  
@@ -24,37 +22,35 @@
 
 ---
 
-## 🚀 Stack Tecnológica
+## 🔧 Stack Completa – Backend Java + Infraestrutura
 
-### ☕ **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-</p>
+### ☕ Linguagem & Plataforma
+- Java 8/11/17+ – OOP, streams, lambdas, boas práticas  
+- Spring Boot / Spring Framework – REST, microsserviços, Spring Security  
+- Quarkus – Cloud-native e leve
 
-### 🗄️ **Bancos de Dados**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+### 🗄️ Bancos de Dados
+- Relacionais: IBM DB2, MS SQL Server, Oracle, PostgreSQL, MySQL  
+- NoSQL: MongoDB, Redis, DynamoDB, FireStore  
+- ORM: Hibernate, JPA, Spring Data  
 
-### ⚙️ **DevOps & Infra**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,git,linux" />
-</p>
+### ⚙️ Infraestrutura & DevOps
+- Docker, Kubernetes  
+- CI/CD: Jenkins, GitHub Actions  
+- Git & GitHub  
+- Cloud: AWS, Azure  
 
-### 🛠️ **Ferramentas & Extras**
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,gradle,maven,kafka,rabbitmq" />
-</p>
+### 🛠️ Ferramentas & Ecossistema
+- Maven, Gradle  
+- Mensageria: Kafka, RabbitMQ  
+- Testes: JUnit, Mockito, Testcontainers  
+- Documentação: Swagger/OpenAPI, Postman  
+- Monitoring: ELK Stack, Prometheus, Grafana  
 
----
-
-## 🧩 Competências Principais
-✔️ Desenvolvimento de APIs REST com Spring Boot  
-✔️ Integração com serviços externos  
-✔️ Microsserviços, mensageria e escalabilidade  
-✔️ Testes com JUnit, Mockito e Testcontainers  
-✔️ Documentação com Swagger/OpenAPI  
-✔️ Performance tuning e boas práticas  
+### 💡 Arquitetura & Boas Práticas
+- Microsserviços, APIs RESTful, Event-Driven  
+- Clean Code, SOLID, Design Patterns  
+- Segurança: JWT, OAuth2, criptografia  
 
 ---
 
@@ -67,18 +63,26 @@
 
 ---
 
+## 🕒 Timeline da Carreira
+
+<p align="center">
+  <img src="assets/career-timeline.svg" alt="Timeline Visual" />
+</p>
+
+*(Crie o SVG em `assets/career-timeline.svg` conforme instruções anteriores.)*
+
+---
+
 ## 🚀 Projetos em Destaque
 
 🔹 **API REST com Spring Boot + JWT**  
 Autenticação, autorização, camadas bem definidas e testes automatizados.
 
 🔹 **Microsserviço de Pagamentos**  
-Utilizando Kafka, MongoDB, Docker e arquitetura orientada a eventos.
+Kafka, MongoDB, Docker e arquitetura orientada a eventos.
 
 🔹 **Biblioteca utilitária Java**  
-Funções reutilizáveis para logs, validações, conversões e helpers.
-
-*(Se quiser, posso substituir por seus projetos reais com links e badges.)*
+Funções reutilizáveis para logs, validações e conversões.
 
 ---
 
@@ -99,7 +103,6 @@ Funções reutilizáveis para logs, validações, conversões e helpers.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
 
 <!--
 **ednardorubens/ednardorubens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,8 +6,9 @@
 <h1 align="center">Backend Developer • Java & Spring Boot ☕</h1>
 
 <p align="center">
-  Construindo sistemas rápidos, seguros e escaláveis.  
-  Apaixonado por backend, arquitetura e boas práticas.
+  Sou um Desenvolvedor Backend Java com **22 anos de experiência** criando soluções estáveis, escaláveis e seguras.  
+  Atuo principalmente com **Java + Spring Boot**, microsserviços, mensageria, bancos SQL/NoSQL, liderança técnica e práticas de DevOps.  
+  Apaixonado por backend, arquitetura e boas práticas. Tenho compromisso com **qualidade de código**, arquitetura limpa e entregas eficientes.
 </p>
 
 ---
@@ -15,7 +16,7 @@
 ## 🎯 Sobre Mim
 - ☕ Desenvolvedor Backend Java  
 - 📦 Experiência com **APIs REST**, microsserviços e mensageria  
-- 🗄️ Domínio de bancos SQL e NoSQL  
+- 🗄️ Domínio de bancos relacionais e não relacionais
 - 🧪 Focado em testes automatizados e qualidade de código  
 - 🚀 Apaixonado por Clean Code, SOLID e boas práticas  
 - 📘 Em constante evolução em cloud e DevOps  
@@ -50,26 +51,33 @@
 ### 💡 Arquitetura & Boas Práticas
 - Microsserviços, APIs RESTful, Event-Driven  
 - Clean Code, SOLID, Design Patterns  
-- Segurança: JWT, OAuth2, criptografia  
+- Segurança: JWT, OAuth2, criptografia
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ednardorubens&show_icons=true&theme=radical&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednardorubens&layout=compact&theme=radical" />
-</p>
+### 🚀 Linguagens  
+![Java](https://img.shields.io/badge/Java-0F4C75?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-1B262C?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3282B8?style=for-the-badge)
 
----
+### ⚙️ Frameworks  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F4C75?style=for-the-badge&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-1B262C?style=for-the-badge&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-3282B8?style=for-the-badge&logo=hibernate&logoColor=white)
 
-## 🕒 Timeline da Carreira
+### 🗄️ Bancos de Dados  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F4C75?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1B262C?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-3282B8?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0F4C75?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
-  <img src="assets/career-timeline.svg" alt="Timeline Visual" />
-</p>
-
-*(Crie o SVG em `assets/career-timeline.svg` conforme instruções anteriores.)*
+### ☁️ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/Docker-1B262C?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3282B8?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0F4C75?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1B262C?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -96,12 +104,6 @@ Funções reutilizáveis para logs, validações e conversões.
   <a href="mailto:ednardorubens@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
 <!--

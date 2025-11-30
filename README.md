@@ -14,12 +14,13 @@
 ---
 
 ## 🎯 Sobre Mim
-- ☕ Desenvolvedor Backend Java  
+- ☕ Sou um Desenvolvedor Backend Java com **22 anos de experiência** criando soluções estáveis, escaláveis e seguras
+- 🛠️ Atuo principalmente com desenvolvimento **Java + Spring Boot** e liderança técnica
 - 📦 Experiência com **APIs REST**, microsserviços e mensageria  
 - 🗄️ Domínio de bancos relacionais e não relacionais
 - 🧪 Focado em testes automatizados e qualidade de código  
 - 🚀 Apaixonado por Clean Code, SOLID e boas práticas  
-- 📘 Em constante evolução em cloud e DevOps  
+- 📘 Em constante evolução em Cloud e DevOps  
 
 ---
 

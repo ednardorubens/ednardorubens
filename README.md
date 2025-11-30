@@ -6,9 +6,7 @@
 <h1 align="center">Backend Developer • Java & Spring Boot ☕</h1>
 
 <p align="center">
-  Sou um Desenvolvedor Backend Java com **22 anos de experiência** criando soluções estáveis, escaláveis e seguras.  
-  Atuo principalmente com **Java + Spring Boot**, microsserviços, mensageria, bancos SQL/NoSQL, liderança técnica e práticas de DevOps.  
-  Apaixonado por backend, arquitetura e boas práticas. Tenho compromisso com **qualidade de código**, arquitetura limpa e entregas eficientes.
+  Construindo sistemas rápidos, seguros e escaláveis. Apaixonado por backend, arquitetura e boas práticas.
 </p>
 
 ---
